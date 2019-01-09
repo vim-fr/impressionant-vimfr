@@ -1,7 +1,7 @@
 # impressionant-vimfr
 Une liste de modules et outils utilisés par la communauté #vimfr@freenode
 
-# Fichier
+# Ligne de commande
 
 Liste d'outils pour les fichiers:
 
