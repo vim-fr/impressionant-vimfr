@@ -2,9 +2,11 @@
 Une liste de modules et outils utilisés par la communauté #vim-fr @ freenode
 
 ## Modules vim
+ * [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) Permet d'éditer n'importe quel fichier se trouvant dans n'importe quel répertoire rapidement
  * [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) Permet de gérer un repository `git` directement depuis vim.
  * [tpope/vim-surround](https://github.com/tpope/vim-surround) Module ajoutant des fonctions d'édition de bloque de texte _encadrant_.
  Par exemple, faire `cs"'` pour modifier `"Bonjour monde"` en `'Bonjour monde'`.
+ * [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) Bar de status simple & légère
 
 ## Ligne de commande
 
