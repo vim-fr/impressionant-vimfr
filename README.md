@@ -27,3 +27,7 @@ Une liste de modules et outils utilisés par la communauté #vim-fr @ freenode
 ### Outils système
 * [iperf3](https://github.com/esnet/iperf) est très utile pour diagnostiquer votre débit entre 2 points précis. Une liste de serveurs iperf publique est disponible [ici](https://iperf.fr/iperf-servers.php).
 * [htop](https://hisham.hm/htop/) est un moniteur de processus interactif. Celui-ci se veut être l'évolution de `top`.
+
+## Config des membres de #vim-fr
+
+* [ChOcO-Bn](https://github.com/chocobn69/dotfiles) Archlinux, i3-wm, zsh, kitty, ...
