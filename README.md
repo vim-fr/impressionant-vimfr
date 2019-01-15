@@ -11,6 +11,7 @@ Une liste de modules et outils utilisés par la communauté #vim-fr @ freenode
  Pour commenter une ligne, rien de plus simple : `gcc`
  On peut également commenter avec un mouvement vim, par exemple pour commenter un paragraphe : `gcip`
  * [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) Bar de status simple & légère
+ * [myusuf3/numbers.vim](https://github.com/myusuf3/numbers.vim) Permet de changer la numération de ligne selon le mode de vim.
 
 ## Ligne de commande
 
