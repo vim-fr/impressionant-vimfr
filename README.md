@@ -6,6 +6,10 @@ Une liste de modules et outils utilisés par la communauté #vim-fr @ freenode
  * [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) Permet de gérer un repository `git` directement depuis vim.
  * [tpope/vim-surround](https://github.com/tpope/vim-surround) Module ajoutant des fonctions d'édition de bloque de texte _encadrant_.
  Par exemple, faire `cs"'` pour modifier `"Bonjour monde"` en `'Bonjour monde'`.
+ * [tpope/vim-commentary](https://github.com/tpope/vim-commentary) Module permettant de mettre ou d'enlever des commentaires.
+ Le module gère les différents format de commentaire selon le langage utilisé.
+ Pour commenter une ligne, rien de plus simple : `gcc`
+ On peut également commenter avec un mouvement vim, par exemple pour commenter un paragraphe : `gcip`
  * [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) Bar de status simple & légère
 
 ## Ligne de commande
